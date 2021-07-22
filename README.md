@@ -7,9 +7,3 @@
 
 - Servo
 - NewPing
-
-### Contributors
-
-- @ritcode
-- @Dibakar58
-- @ShubhamGupta577
